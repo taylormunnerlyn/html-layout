@@ -1,0 +1,35 @@
+.main-content {
+display: flex;
+}
+
+.left {
+  height: 100vh;
+  width: calc(100%/3);
+  background-color: #4A90E2;
+  border: none;
+}
+
+.middle {
+  height: 100vh;
+  width: calc(100%/3);
+  background-color: #50E3C2;
+  border: none;
+}
+
+.right {
+  height: 80vh;
+  width: calc(100%/3);
+  background-color: #B8E986;
+  border: none;
+  position: relative;
+}
+
+.bottom-right {
+  height: 20vh;
+  width: calc(100%/3);
+  background-color: red;
+  border: none;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}

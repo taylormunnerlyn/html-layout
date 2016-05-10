@@ -1,0 +1,49 @@
+.main-header {
+  height: 14vh;
+  width: 100%;
+  background-color: lightgray;
+  padding-top: 13px;
+  padding-left: 30px;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+
+.one {
+  height: 30vh;
+  width: 100%;
+  padding: 60px 50px;
+  background-color: white;
+}
+
+.one p {
+  font-family: sans-serif;
+  line-height: 25px;
+}
+
+.two {
+  height: 14vh;
+  width: 100%;
+  background-color: blue;
+}
+
+.three {
+  height: 14vh;
+  width: 100%;
+  background-color: #50E3C2;
+}
+
+.four {
+  height: 14vh;
+  width: 100%;
+  background-color: green;
+}
+
+.five {
+  height: 14vh;
+  width: 100%;
+  background-color: yellow;
+}
